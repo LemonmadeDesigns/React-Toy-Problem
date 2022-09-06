@@ -35,7 +35,7 @@ export default class Sum extends Component {
         <input
           className="input_1"
           type="number"
-          onChange={(e) => this.updateNumber_1(e.target.value)}
+          onChange={(e) => this.updateNumber_2(e.target.value)}
         />
         <button
           className="add_button"

@@ -213,7 +213,7 @@ export default class Sum extends Component {
 <br />
 
 <!-- PLACE MY OWN IMAGE IN HERE OF RESULT -->
-<img src="" />
+<img src="./public/images/Final_Sum.png" />
 
 ## Resources
 
