@@ -164,6 +164,8 @@ Solve the toy problem how you see fit.
 
 <summary> <code> Sum.js </code> </summary>
 
+<br />
+
 ```js
 import React, { Component } from 'react';
 
