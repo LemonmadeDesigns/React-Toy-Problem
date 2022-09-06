@@ -155,8 +155,7 @@ Finally, let's update our `button` element to update the value of `sum`.
   }
 ```
 
-Solve the toy problem of your choosing.
-
+Solve the toy problem how you see fit.
 </details>
 
 ### Solution
